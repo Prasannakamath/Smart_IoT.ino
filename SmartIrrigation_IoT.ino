@@ -6,14 +6,14 @@
 #define REPORT_INTERVAL 15000
 #define MESSAGE_ID 1000 //Message defined in the platform
 //WiFi Credentials
-# define ssid "prasanna02" 
-# define password "Prasanna@12!"
+# define ssid "123456789" 
+# define password "*************"
 String temp;
 String payload="";
 
 //Platform Credentials
-#define DEF_DOMAIN_KEY "SFOGHICPFB" //your DOMAIN Key
-#define DEF_API_KEY "55KfAMYSFl3b" //Your API Key
+#define DEF_DOMAIN_KEY "hgjfghfgvbvc" //your DOMAIN Key
+#define DEF_API_KEY "jhjhghghgfgftg" //Your API Key
 #define DEF_DEVICE_MODEL "BSKP-SMAG" //Your device model(BoodSkap-SmartAgriculture)
 #define DEF_FIRMWARE_VER "N/A" //Your firmware version
 
